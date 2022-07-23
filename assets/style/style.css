@@ -1,0 +1,9 @@
+.offcanvas,.mobile-header{
+    background-color: blueviolet;
+}
+.navbar-brand img{
+    width: 100px;
+}
+.toggler-icon i{
+    font-size: 30px;
+}
